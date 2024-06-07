@@ -6,7 +6,7 @@
   <h3 align="center">🚀YesClaimer🚀</h3>
 
   <p align="center">
-    YesClaimer is a tool designed to automate the egg claiming process in the YesCoin.
+    YesClaimer is an automatic coin collecting tool in YesCoin.
     <br/>
     <br/>
   </p>
@@ -44,7 +44,6 @@ This is simply a tool that helps automate the process of receiving coins in "Yes
 - Support for multiple accounts.
 
 ### Future Updates
-- 
 - 
 - 
   
