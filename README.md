@@ -118,7 +118,7 @@ python main.py
 ### PC Guide 
 - https://vt.tiktok.com/ZSY23NjRp/
 ### Mobile Guide
-- coming soon
+- coming soon...
 
 
 > **Warning**
